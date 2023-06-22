@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi chanal</h1>
-<h3 align="center">A girl who learing amdroid development</h3>
+<h3 align="center">A girl who learing android development</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/cute-girl-working-laptop-with-cat-cartoon_138676-3025.jpg?w=740">
 
 
