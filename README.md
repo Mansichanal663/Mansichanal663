@@ -11,7 +11,7 @@
 
 ##
 
-#  MY SKILLS
+#  My skills
 [![Android](https://img.shields.io/badge/Android-%23000000.svg?style=for-the-badge&logo=android&logoColor=3DDC84)](https://www.android.com)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -19,7 +19,7 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 
 
-# contact me 
+# Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/meha.k_663/)
 
 #
