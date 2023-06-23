@@ -21,3 +21,8 @@
 
 # contact me 
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/meha.k_663/)
+
+#
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansichanal663" alt="mansichanal663" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansichanal663&label=Profile%20views&color=0e75b6&style=flat" alt="mansichanal663" /> </p>
