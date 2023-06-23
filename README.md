@@ -22,6 +22,7 @@
 
 # Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/meha.k_663/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](http://www.linkedin.com/in/mansichanal)
 
 #
 <p align="left">
