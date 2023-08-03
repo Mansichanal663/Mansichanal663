@@ -8,7 +8,8 @@
 - 🔭 I’m currently learning **android developer**
 
 - 🏫 I’m study at **ACE🧑‍🏫**
-
+  
+- 🤝 I’m looking for help with **my friends**
 
 
 ##
